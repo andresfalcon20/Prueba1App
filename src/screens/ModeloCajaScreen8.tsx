@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyleSheet, View } from 'react-native'
 
-export const ModeloCajaScreen7 = () => {
+export const ModeloCajaScreen8 = () => {
     return (
         <View style={styles.container}>
             <View style={styles.boxBlue}> </View>
@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
         backgroundColor: "#eea211",
         borderWidth: 10,
         borderColor: "white",
+        left:"20%"
 
 
 

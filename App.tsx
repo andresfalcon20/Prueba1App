@@ -8,6 +8,7 @@ import { ModeloCajaScreen4 } from './src/screens/ModeloCajaScreen4';
 import { ModeloCajaScreen5 } from './src/screens/ModeloCajaScreen5';
 import { ModeloCajaScreen6 } from './src/screens/ModeloCajaScreen6';
 import { ModeloCajaScreen7 } from './src/screens/ModeloCajaScreen7';
+import { ModeloCajaScreen8 } from './src/screens/ModeloCajaScreen8';
 
 export const App = () =>{
   return (
@@ -21,8 +22,9 @@ export const App = () =>{
 {/* <ModeloCajaScreen4/>*/}  
 {/* <ModeloCajaScreen5/>*/}  
 {/* <ModeloCajaScreen6/>*/}  
+{/* <ModeloCajaScreen7/>*/}  
 
-<ModeloCajaScreen7/>
+<ModeloCajaScreen8/>
 
 
  </SafeAreaView>
